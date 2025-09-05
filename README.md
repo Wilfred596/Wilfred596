@@ -42,3 +42,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wilfred596&show_icons=true&locale=en" alt="wilfred596" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilfred596&" alt="wilfred596" /></p>
+
+![Snake animation](https://github.com/Wilfred596/Wilfred596/blob/output/github-contribution-grid-snake.svg)
