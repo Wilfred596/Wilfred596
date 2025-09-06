@@ -1,5 +1,4 @@
 ![logo](https://github.com/Wilfred596/Wilfred596/blob/main/Github%20Banner.png)
-
 <h1 align="center">Hi 👋, I'm VIJAY WILFRED APPOO</h1>
 <h3 align="center">A Passionate Full Stack Software Developer From India</h3>
 
