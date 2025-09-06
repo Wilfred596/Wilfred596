@@ -13,8 +13,9 @@ jobs:
       # Checkout repository
       - uses: actions/checkout@v3
         with:
-          persist-credentials: false
-
+          persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
       # Snake Animation
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -34,3 +35,29 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Commit files directly to main branch
+      - name: Commit and push changes directly 
+        id: push
+        run: |
+          set +e
+          git push origin HEAD:main
+          echo "push_result=$?" >> $GITHUB_OUTPUT
+          set -e
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Commit pull request to main branch
+      - name: Create Pull Request if push failed
+        if: steps.push.outputs.push_result != '0'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: update snake animation"
+          branch: update-snake
+          title: "Update snake animation"
+          body: "Automated update of snake animation."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}    
+
+          
