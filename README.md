@@ -45,6 +45,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilfred596&" alt="wilfred596" /></p>
 
-![Snake Animation Light](https://github.com/Wilfred596/Wilfred596/blob/output/github-contribution-grid-snake.svg)
-
-![Snake Animation Dark](https://github.com/Wilfred596/Wilfred596/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation Light](https://github.com/Wilfred596/Wilfred596/blob/dist/github-contribution-grid-snake.svg)
+![Snake Animation Dark](https://github.com/Wilfred596/Wilfred596/blob/dist/github-contribution-grid-snake-dark.svg)
