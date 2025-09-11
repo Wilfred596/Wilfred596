@@ -11,7 +11,6 @@
               body {
                   box-sizing: border-box;
                   min-width: 200px;
-                  max-width: 980px;
                   margin: 0 auto;
                   padding:  45px;
                   background-color: #f6f8fa;
@@ -24,7 +23,7 @@
 </head>
 <body class="markdown-body">
 
-    <h1>Welcome to My GitHub Portfolio Page!</h1>
+    <h1>Welcome to My GitHub Portfolio Website Page!</h1>
 
     <div id="readme-container">
         <p>Loading README...</p>
@@ -35,7 +34,7 @@
         const username = 'Wilfred596'; 
         const readmeContainer = document.getElementById('readme-container');
 
-        fetch(`https://api.github.com/repos/Wilfred596/Wilfred596/readme`, {
+        fetch(`https://api.github.com/repos/${username}/${username}/readme`, {
             headers: {
                 // This header tells the API to return the README rendered as HTML
                 'Accept': 'application/vnd.github.html'
