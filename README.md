@@ -1,9 +1,9 @@
-![logo](https://github.com/Wilfred596/Wilfred596/blob/main/Github%20Banner.png)
+![logo](https://github.com/Wilfred596/Wilfred596/blob/main/assets/images/Github%20Banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm VIJAY WILFRED APPOO</h1>
 <h3 align="center">A Passionate Full Stack Software Developer From India</h3>
 
-<h3 align="left">🌐 Socials:</h3>
+<h3 align="left">🌐 Socials Networks:</h3>
 
 <p align="left"> <a href="https://twitter.com/appoovijay83101" target="blank"><img src="https://img.shields.io/twitter/follow/appoovijay83101?logo=twitter&style=for-the-badge" alt="appoovijay83101" /></a> </p>
 
