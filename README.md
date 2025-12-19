@@ -53,7 +53,7 @@
 
 <h3 align="left">🏆 GitHub Trophies</h3>
 
-<p align="left"> <a href="https://github.com/Wilfred596/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wilfred596" alt="wilfred596" /></a> </p>
+<p align="left"> <a href="https://github.com/wilfred596/github-profile-trophy"><img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" alt="wilfred596" /></a> </p>
 
 ### ✍️ Random Dev Quote
 
