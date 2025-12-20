@@ -1,7 +1,7 @@
 ![logo](https://github.com/Wilfred596/Wilfred596/blob/main/assets/images/Github%20Banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm VIJAY WILFRED APPOO</h1>
-<h3 align="center">A Passionate Full Stack Software Developer From India</h3>
+<h3 align="center">A Passionate Full Stack Senior Software Developer From India</h3>
 
 <h3 align="left">🌐 Socials Networks:</h3>
 
@@ -55,7 +55,7 @@
 
 <p align="left"> <a href="https://github.com/wilfred596/github-profile-trophy"><img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" alt="wilfred596" /></a> </p>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quotes
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
