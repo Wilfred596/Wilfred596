@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vwilfred](https://www.linkedin.com/in/vwilfred)
 
-- ⚡ Fun fact **I am a Fun Loving Person and Team Building**
+- ⚡ Fun fact **I am a Fun Loving Person and Team Building with Leadership Qualities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
