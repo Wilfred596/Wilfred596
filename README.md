@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Java,J2EE,Apache Kafka,Kubernetes,Python Projects](https://github.com/Wilfred596)
 
-- 🌱 I’m currently upscaling to **AWS, Python, Microservices, Kafka, Kubernetes, DevOps, Jenkins, Blue-Green Deployment**
+- 🌱 I’m currently upscaling to **AWS, Azure, Python, Microservices, Kafka, Kubernetes, DevOps, Jenkins, Blue-Green Deployment**
 
 - 👯 I’m looking to collaborate on [Java,J2EE,DevOps,.NET,AWS,Azure,REST API,NodeJS](https://github.com/Wilfred596)
 
