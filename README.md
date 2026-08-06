@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [Java,J2EE,DevOps,.NET,AWS,Azure,REST API,NodeJS](https://github.com/Wilfred596)
 
-- 🤝 I’m looking for help with [Java,J2EE,DevOps,Python,Spring,SpringBoot,Spring Data JPA](https://github.com/Wilfred596)
+- 🤝 I’m looking for support with [Java,J2EE,DevOps,Python,SpringBoot,Spring Data JPA](https://github.com/Wilfred596)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wilfred596](https://github.com/Wilfred596)
 
